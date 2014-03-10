@@ -1,0 +1,7 @@
+                                        linkedlist              array
+for finding the value of an index           O(n)                O(1)
+adding an element to the beginning          O(1)                O(n)
+adding an element to the end                O(n)                O(1)
+inserting several elements at a spot        O(n)                O(n)
+combining to sorted lists                   O(max(n,m))         O(m+n)
+finding a value in the lists                O(n)                O(n)
